@@ -2,7 +2,7 @@
 
 https://memo.cash Social network on chain
 
-https://www.yours.org New site for bch
+https://www.yours.org News for bch/Good content rewarded with bch
 
 https://gitcash.io Bounties for github
 
